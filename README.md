@@ -1,1 +1,1 @@
-"# Randr - a simple random number generator" 
+"# Randr - a simple Android app that generates random number" 
