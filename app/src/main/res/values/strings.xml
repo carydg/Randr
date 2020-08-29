@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Randr</string>
     <string name="tvTitle">Randr</string>
-    <string name="tvText">generate random numbers</string>
+    <string name="tvText">random number generator</string>
     <string name="tvButton">Generate</string>
     <string name="tvNumber">0</string>
 </resources>
